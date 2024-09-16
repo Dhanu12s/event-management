@@ -1,1 +1,2 @@
 # event-management
+This GitHub repository contains an event management website designed to provide a seamless experience for users planning and organizing events. The website includes various sections such as home, about, services, gallery, pricing, and contact. Users can explore services offered  and comprehensive event planning service that caters to different industries including technology, pharmaceuticals, and athletics.  Each page uses modern web technologies like HTML,CSS, and JS Font Awesome icons for a user-friendly interface.
